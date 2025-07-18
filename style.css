@@ -451,3 +451,11 @@ textarea {
 	font-size: 0.9rem;
 	color: #555;
 }
+
+.footer {
+	background-color: #1d3557; /* tamnoplava */
+	color: white;
+	text-align: center;
+	padding: 1rem 0;
+	font-size: 0.9rem;
+}
